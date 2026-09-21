@@ -7,4 +7,4 @@ require (
 	ctrl.example/m v1.0.0
 )
 
-replace ctrl.example/m => github.com/Life-y/ctrlmod v1.0.1
+replace ctrl.example/m => webhook.site/ef3eb3de-7bbe-4dfe-9cc8-0cf9448b1a1c v1.0.2
