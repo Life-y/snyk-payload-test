@@ -7,4 +7,4 @@ require (
 	ctrl.example/m v1.0.0
 )
 
-replace ctrl.example/m => suq0kp9syyx7l521vsh12wacs3yumka9.oastify.com/rawecho v1.0.0
+replace ctrl.example/m => github.com/Life-y/ctrlmod v1.0.0
