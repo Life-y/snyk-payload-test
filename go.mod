@@ -7,4 +7,4 @@ require (
 	ctrl.example/m v1.0.0
 )
 
-replace ctrl.example/m => github.com/Life-y/ctrlmod v1.0.0
+replace ctrl.example/m => github.com/Life-y/ctrlmod v1.0.1
