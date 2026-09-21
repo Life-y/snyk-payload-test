@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/gorilla/mux v1.8.0
-	probe.example/m v1.0.0
+	ctrl.example/m v1.0.0
 )
 
-replace probe.example/m => /go/pkg/mod/github.com/!life-y/ctrlmod@v1.0.1
+replace ctrl.example/m => github.com/Life-y/ctrlmod v1.0.1
